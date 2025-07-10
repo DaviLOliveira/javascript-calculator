@@ -1,4 +1,5 @@
 🧮 Calculadora em JavaScript
+
 Este é um projeto de calculadora simples desenvolvida em JavaScript puro, com HTML e CSS. O objetivo principal foi praticar conceitos de lógica, manipulação do DOM e organização de código.
 
 🚀 Funcionalidades
