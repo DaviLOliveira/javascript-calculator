@@ -3,6 +3,7 @@
 Este é um projeto de calculadora simples desenvolvida em JavaScript puro, com HTML e CSS. O objetivo principal foi praticar conceitos de lógica, manipulação do DOM e organização de código.
 
 🚀 Funcionalidades
+
 Operações básicas: soma, subtração, multiplicação e divisão
 
 Interface simples e responsiva
@@ -10,6 +11,7 @@ Interface simples e responsiva
 Exibição clara do resultado
 
 💻 Tecnologias utilizadas
+
 HTML
 
 CSS
@@ -17,6 +19,7 @@ CSS
 JavaScript
 
 ⚙️ Como rodar o projeto na sua máquina
+
 1. Clone este repositório
 
 git clone https://github.com/DaviLOliveira/javascript-calculator.git
@@ -36,6 +39,7 @@ cd javascript-calculator
 - Ou, se preferir, basta abrir manualmente o arquivo index.html no seu navegador.
 
 📝 Autor
+
 Davi Luiz Santos Oliveira
 
 LinkedIn = https://www.linkedin.com/in/davi-luizso/
@@ -43,5 +47,6 @@ LinkedIn = https://www.linkedin.com/in/davi-luizso/
 GitHub = https://github.com/DaviLOliveira/
 
 ⭐ Contribuições
+
 Fique à vontade para abrir issues ou enviar pull requests com sugestões de melhorias!
 
